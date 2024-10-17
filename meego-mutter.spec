@@ -18,7 +18,7 @@ Summary: Mutter window manager
 Name: %{name}
 Version: %{version}
 Release: %{release}
-URL: http://www.meego.org
+URL: https://www.meego.org
 Source0: http://repo.meego.com/MeeGo/releases/1.1/netbook/repos/source/%{oname}-%{sversion}.tar.bz2
 License: GPLv2+
 Group: Graphical desktop/GNOME
